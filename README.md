@@ -3,7 +3,13 @@
 **A blueprint for radical transparency and open participation in U.S. lawmaking.**
 
 ---
-
+> **Why it matters:**  
+> • **Any citizen can propose law—no gatekeepers**  
+> • **Stops good ideas from dying in inboxes** (every draft is logged, searchable, and must be triaged)  
+> • **Kills back-room rewrites** with full version history & public comment threads  
+> • **Permanent public record** → future lawmakers build on, not duplicate, past work  
+> • **First true “GitHub-for-policy” platform**—open APIs for researchers, journalists, and watchdogs
+---
 ## Overview
 
 The **Federal Model Policy Submission & Registry Act** creates a public, open-source platform (“registry”) for anyone—citizen, expert, or public servant—to propose, track, and comment on model federal legislation. It is the intake and triage engine for 21st-century, process-first governance.
