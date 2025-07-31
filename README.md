@@ -40,7 +40,7 @@ The **Federal Model Policy Submission & Registry Act** creates a public, open-so
 
 ## Current Draft
 
-- [Federal Model Policy Submission & Registry Act.pdf](./Federal%20Model%20Policy%20Submission%20%26%20Registry%20Act.pdf)
+- [Federal Model Policy Submission & Registry Act.pdf](./Federal%20Model%20Policy%20Submission%20%26%20Registry%20Act%20of%202025.pdf)
 
 ---
 
