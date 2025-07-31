@@ -43,6 +43,10 @@ The **Federal Model Policy Submission & Registry Act** creates a public, open-so
 - [Federal Model Policy Submission & Registry Act.pdf](./Federal%20Model%20Policy%20Submission%20%26%20Registry%20Act%20of%202025.pdf)
 
 ---
+## DOI
+
+[Gallegos, Lucas. *Federal Model Policy Submission & Registry Act*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16627560)
+****
 
 ## Part of the G5 Reform Portfolio
 
