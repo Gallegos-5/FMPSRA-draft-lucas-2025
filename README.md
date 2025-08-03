@@ -52,11 +52,14 @@ The **Federal Model Policy Submission & Registry Act** creates a public, open-so
 ## DOI
 
 [Gallegos, Lucas. *Federal Model Policy Submission & Registry Act*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16627560)
+
+
 ****
 
-## Part of the G5 Reform Portfolio
+## Part of the Future America Vision Portfolio
 
-This act is part of the [Gallegos-5 (G5) reform suite](https://github.com/Gallegos-5), a portfolio of next-generation, process-first federal acts to modernize U.S. governance for the AI era.
+This act is part of the [Future-America-Vision](https://github.com/Gallegos-5/Future-America-Vision) portfolio—a flagship stack of open, accountable, next-generation U.S. governance reforms for perpetual innovation.
+
 
 ---
 
